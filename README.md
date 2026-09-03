@@ -1,11 +1,11 @@
-# Hi 👋, I'm Jenny
+# Hi 👋, I'm Fatima
 
 ## A CS Student at Rutgers University
 
 - 🎓 Computer Science major at Rutgers University, graduating May 2027
 - 🌱 Currently building projects in web development and exploring MedTech / healthcare software
-- 📫 Contact me: your-email@example.com
-- ⚡ Fun fact: replace this with something about you!
+- 📫 Contact me: fatimajavaid11@gmail.com
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
