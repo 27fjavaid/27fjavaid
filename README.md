@@ -3,7 +3,7 @@
 ## A CS Student at Rutgers University
 
 - 🎓 Computer Science major at Rutgers University, graduating May 2027
-- 🌱 Currently building projects in web development and exploring MedTech / healthcare software
+- 🌱 Currently building projects in web development and software development
 - 📫 Contact me: fatimajavaid11@gmail.com
 
 
